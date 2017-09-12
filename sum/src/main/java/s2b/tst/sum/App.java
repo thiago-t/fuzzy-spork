@@ -24,6 +24,6 @@ public class App
 		double r = Sum.sum(a, b);
 		System.out.printf("A= %f\n", a);
 		System.out.printf("B= %f\n", b);
-		System.out.println(deci.format(r));
+		System.out.println(deci.format(r)); //
     }
 }
